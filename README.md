@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://imgur.com/gallery/so-begins-QgloygE#GrV2Rpj" width="450" alt="some meme" />
+  <img src="https://i.imgur.com/GrV2Rpj.mp4" width="450" alt="some meme" />
 </div>
 
 # ⚡ Peter — Frontend Developer  
@@ -26,7 +26,7 @@ Outside of coding, I enjoy:
 ---
 
 <div align="center">
-  <img src="https://imgur.com/gallery/zenitsu-IEuHyUm#U6ut568" width="450" alt="Zenitsu Thunder Clap GIF" />
+  <img src="https://i.imgur.com/U6ut568.mp4" width="450" alt="Zenitsu Thunder Clap GIF" />
 </div>
 
 ---
@@ -65,7 +65,7 @@ Modular vanilla JS + Webpack + localStorage.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ffae00?style=for-the-badge&logo=gmail&logoColor=000)](baranec.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ffae00?style=for-the-badge&logo=gmail&logoColor=000)](mailto:baranec.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](#)
 
 </div>
