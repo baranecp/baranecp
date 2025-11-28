@@ -1,8 +1,6 @@
 # ⚡ Peter — Frontend Developer  
 ### *“You don't have to be great to start, but you have to start to be great.” - Zig Ziglar*  
 
----
-
 <table>
 <tr>
 <td width="55%" valign="top">
@@ -26,8 +24,6 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 ### *“The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.” — Andrew Singer*
 
----
-
 <div align="center">
 
 ## ⚡ Tech Stack
@@ -39,8 +35,6 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 </div>
 
----
-
 <div align="center">
  
 ## 🛠️ Tools & Platforms
@@ -51,7 +45,6 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 </div>
 
----
 
 <div align="center">
  
