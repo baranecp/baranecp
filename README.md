@@ -3,10 +3,8 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="55%">
-
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
+ <div style="flex: 1; min-width: 250px; margin-right: 20px;">
 ## 👋 About Me
 
 Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting **clean, responsive, and visually engaging web experiences**.
@@ -14,15 +12,13 @@ Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting 
 I mainly work with **React**, **Next.js**, and **Tailwind CSS**, and I’m currently exploring **GSAP** for smooth animations.
 
 I’m a **dynamic and curious person** who loves learning new things and improving every day. Outside coding, I enjoy **gym training, gaming, and watching anime**.
-
-    </td>
-    <td>
-
+ </div>
+   
+<div style="flex: 1; min-width: 250px;">
 <img src="https://github.com/baranecp/baranecp/blob/main/introi.gif" width="300" alt="GIF" />
-
-    </td>
-  </tr>
-</table>
+</div>
+    
+  </div>
 
 ---
 
