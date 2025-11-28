@@ -3,8 +3,10 @@
 
 ---
 
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
- <div style="flex: 1; min-width: 250px; margin-right: 20px;">
+<table>
+<tr>
+<td width="55%" valign="top">
+
 ## 👋 About Me
 
 Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting **clean, responsive, and visually engaging web experiences**.
@@ -12,13 +14,15 @@ Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting 
 I mainly work with **React**, **Next.js**, and **Tailwind CSS**, and I’m currently exploring **GSAP** for smooth animations.
 
 I’m a **dynamic and curious person** who loves learning new things and improving every day. Outside coding, I enjoy **gym training, gaming, and watching anime**.
- </div>
-   
-<div style="flex: 1; min-width: 250px;">
-<img src="https://github.com/baranecp/baranecp/blob/main/introi.gif" width="300" alt="GIF" />
-</div>
-    
-  </div>
+
+</td>
+<td width="45%" align="center">
+
+<img src="https://github.com/baranecp/baranecp/raw/main/introi.gif" width="300" alt="GIF" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,10 +39,9 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 </div>
 
+<div align="center">
+ 
 ## 🛠️ Tools & Platforms
-
-<div align="left">
-
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -46,15 +49,13 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 </div>
 
-
 ---
 
-## 📬 Contact Me
 
 <div align="center">
-
+ 
+## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-ffae00?style=for-the-badge&logo=gmail&logoColor=000)](mailto:baranec.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](#)
 
 </div>
-
