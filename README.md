@@ -1,13 +1,13 @@
-### ⚡ Peter — Frontend Developer  
+# ⚡ Peter — Frontend Developer  
 ### *“You don't have to be great to start, but you have to start to be great.” - Zig Ziglar*  
 
 ---
 
-<table style="border-spacing:0; border:none;">
+<table>
 <tr>
 <td width="55%" valign="top">
 
-### 👋 About Me
+## 👋 About Me
 
 Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting **clean, responsive, and visually engaging web experiences**.
 
@@ -30,7 +30,7 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 <div align="center">
 
-### ⚡ Tech Stack
+## ⚡ Tech Stack
 ![React](https://img.shields.io/badge/React-ffe666?style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
@@ -43,7 +43,7 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 <div align="center">
  
-### 🛠️ Tools & Platforms
+## 🛠️ Tools & Platforms
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -55,7 +55,7 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 
 <div align="center">
  
-### 📬 Contact Me
+## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-ffae00?style=for-the-badge&logo=gmail&logoColor=000)](mailto:baranec.dev@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](#)
 
