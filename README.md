@@ -13,19 +13,12 @@ Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting 
 
 I mainly work with **React**, **Next.js**, and **Tailwind CSS**, and I’m currently exploring **GSAP** for smooth animations.
 
-My path wasn’t typical — I studied **electrical engineering**, worked as an **electronics technician**, and later served in the army as a **communication specialist**. After leaving the army for health reasons, I decided to give programming a real chance — and it quickly became my passion.
-
 I’m a **dynamic and curious person** who loves learning new things and improving every day. Outside coding, I enjoy **gym training, gaming, and watching anime**.
-
-Outside of coding, I enjoy:  
-🏋️ training at the gym  
-🎮 playing games  
-🎌 watching anime 
 
     </td>
     <td>
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/your-gif.gif" width="300" alt="GIF" />
+<img src="https://github.com/baranecp/baranecp/blob/main/introi.gif" width="300" alt="GIF" />
 
     </td>
   </tr>
