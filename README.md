@@ -22,7 +22,6 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 </tr>
 </table>
 
-### *“The art of debugging is figuring out what you really told your program to do rather than what you thought you told it to do.” — Andrew Singer*
 
 <div align="center">
 
