@@ -1,4 +1,4 @@
-# ⚡ Peter — Frontend Developer  
+# Peter — Frontend Developer  
 ### *“You don't have to be great to start, but you have to start to be great.” - Zig Ziglar*  
 
 <table>
@@ -9,7 +9,7 @@
 
 Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting **clean, responsive, and visually engaging web experiences**.
 
-I mainly work with **React**, **Next.js**, and **Tailwind CSS**, and I’m currently exploring **GSAP** for smooth animations.
+I’m currently learning and building with **React**, **Next.js**, and **Tailwind CSS**.
 
 I’m a **dynamic and curious person** who loves learning new things and improving every day. Outside coding, I enjoy **gym training, gaming, and watching anime**.
 
@@ -28,7 +28,8 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 ## ⚡ Tech Stack
 ![React](https://img.shields.io/badge/React-ffe666?style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=000)
 
