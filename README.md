@@ -1,4 +1,4 @@
-# Peter — Frontend Developer  
+# Peter — Software Developer  
 > *“You don't have to be great to start, but you have to start to be great.”*  
 > — Zig Ziglar
 
@@ -8,9 +8,9 @@
 
 ## 👋 About Me
 
-Hi! I’m **Peter**, a self-taught frontend developer passionate about crafting **clean, responsive, and visually engaging web experiences**.
+Hi! I’m **Peter**, a self-taught developer focused on backend development and systems-level programming.
 
-I’m currently learning and building with **React**, **Next.js**, and **Tailwind CSS**.
+I’m currently working with **Go** and **Python**, learning memory management in **C**, and building strong fundamentals in **SQL** and **Linux**.
 
 I’m a **dynamic and curious person** who loves learning new things and improving every day. Outside coding, I enjoy **gym training, gaming, and watching anime**.
 
