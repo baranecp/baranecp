@@ -23,6 +23,11 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 </tr>
 </table>
 
+## 🚧 Currently Working On
+- Building backend services in Go
+- Improving low-level C fundamentals (memory, pointers, lifetimes)
+- Designing relational schemas and writing efficient SQL
+
 
 <div align="center">
 
