@@ -61,6 +61,6 @@ I’m a **disciplined and curious person** who enjoys learning new things and im
  
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-ffae00?style=for-the-badge&logo=gmail&logoColor=000)](mailto:baranec.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](https://baranecpeter.vercel.app)
 
 </div>
