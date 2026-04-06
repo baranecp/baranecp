@@ -7,11 +7,13 @@
 
 ## 👋 About Me
 
-Hi! I’m **Peter**, a self-taught developer focused on backend development and systems-level programming.
+Hi! I’m **Peter**, a self-taught developer focused on backend development and system administration.
 
-I’m currently working with **Go** and **Python**, learning memory management in **C**, and building strong fundamentals in **SQL** and **Linux**.
+I’m currently focusing on **Linux** and building a strong foundation in system-level skills. My next step is to expand into **Python** for automation and backend development.
 
-I’m a **dynamic and curious person** who loves learning new things and improving every day. Outside coding, I enjoy **gym training, gaming, and watching anime**.
+I already have experience with **JavaScript/TypeScript, React/Next.js, HTML, CSS, GitHub, Tailwind, and Drizzle**.
+
+I’m a **disciplined and curious person** who enjoys learning new things and improving every day. Outside coding, I spend my time **training in the gym, gaming, and watching anime**.
 
 </td>
 <td width="45%" align="center">
@@ -23,30 +25,24 @@ I’m a **dynamic and curious person** who loves learning new things and improvi
 </table>
 
 ## 🚧 Currently Working On
-- Building backend services in Go
-- Improving low-level C fundamentals (memory, pointers, lifetimes)
-- Designing relational schemas and writing efficient SQL
+- Learning Linux system administration (RHCSA path)
+- Practicing terminal workflows and file management
+- Building strong fundamentals for backend and automation
 
 
 <div align="center">
 
 ## ⚡ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-ffe666?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-ffe666?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge&logo=drizzle&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88ce02?style=for-the-badge&logo=greensock&logoColor=000)
+![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
 
 </div>
 
