@@ -7,13 +7,13 @@
 
 ## 👋 About Me
 
-Hi! I’m **Peter**, a self-taught developer focused on backend development and system administration.
+Hi! I’m **Peter**, a self-taught developer with a strong foundation in frontend development, currently transitioning into **Linux system administration and backend development**.
 
-I’m currently focusing on **Linux** and building a strong foundation in system-level skills. My next step is to expand into **Python** for automation and backend development.
+I’m currently focused on **Linux (RHCSA path)**, building solid system-level skills through hands-on practice and real-world scenarios. I'm also expanding into **Python** for automation and backend scripting.
 
-I already have experience with **JavaScript/TypeScript, React/Next.js, HTML, CSS, GitHub, Tailwind, and Drizzle**.
+I have experience with **JavaScript/TypeScript, React/Next.js, HTML, CSS, GitHub, Tailwind, and Drizzle**, which helps me approach problems from both development and system perspectives.
 
-I’m a **disciplined and curious person** who enjoys learning new things and improving every day. Outside coding, I spend my time **training in the gym, gaming, and watching anime**.
+I focus on consistency and practical learning, working every day to improve my skills. Outside of coding, I spend my time **training in the gym, gaming, and watching anime**.
 
 </td>
 <td width="45%" align="center">
