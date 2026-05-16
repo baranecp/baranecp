@@ -7,13 +7,15 @@
 
 ## 👋 About Me
 
-Hi! I’m **Peter**, a self-taught developer with a background in frontend development, now focused on **Linux system administration and backend development**.
+Hi! I’m **Peter**, a self-taught developer with a background in frontend development, now focused on **Linux System Administration and Cloud Engineering**.
 
-I’m currently working on building strong Linux fundamentals through hands-on practice. At the same time, I’m learning **Python** to develop automation and backend tools.
+I’m currently working on building strong Linux fundamentals through hands-on practice. At the same time, I’m learning **Python** for automation.
 
 My experience with **JavaScript/TypeScript, React/Next.js, HTML, CSS, GitHub, Tailwind, and Drizzle** allows me to understand both application development and the systems they run on.
 
-I’m focused on building practical skills and real-world projects. Outside of coding, I enjoy **training in the gym, gaming, and watching anime**.
+I enjoy working across both development and infrastructure, with a growing focus on Linux, automation, cloud technologies, and scalable systems. 
+
+Outside of coding, I enjoy **training in the gym, gaming, and watching anime**.
 
 </td>
 <td width="45%" align="center">
@@ -26,8 +28,7 @@ I’m focused on building practical skills and real-world projects. Outside of c
 
 ## 🚧 Currently Working On
 - Learning Linux system administration
-- Practicing terminal workflows and file management
-- Building strong fundamentals for backend and automation
+- Practicing terminal workflows, system management, and automation
 
 
 <div align="center">
