@@ -7,13 +7,11 @@
 
 ## 👋 About Me
 
-Hi! I’m **Peter**, a self-taught developer with a background in frontend development, now focused on **Linux System Administration and Cloud Engineering**.
+Hi! I’m **Peter**, someone with experience in IT-related roles and a background in frontend development..
 
-I’m currently working on building strong Linux fundamentals through hands-on practice. At the same time, I’m learning **Python** for automation.
+I like working with technology in different forms — from building things to understanding how **systems** run behind the scenes. I’m also comfortable working with **data**, especially when it comes to keeping things organized and accurate.
 
-My experience with **JavaScript/TypeScript, React/Next.js, HTML, CSS, GitHub, Tailwind, and Drizzle** allows me to understand both application development and the systems they run on.
-
-I enjoy working across both development and infrastructure, with a growing focus on Linux, automation, cloud technologies, and scalable systems. 
+I enjoy environments where I can learn new tools, solve practical problems, and improve how things work day to day.
 
 Outside of coding, I enjoy **training in the gym, gaming, and watching anime**.
 
@@ -26,35 +24,28 @@ Outside of coding, I enjoy **training in the gym, gaming, and watching anime**.
 </tr>
 </table>
 
-## 🚧 Currently Working On
-- Learning Linux system administration
-- Practicing terminal workflows, system management, and automation
-
 
 <div align="center">
 
 ## ⚡ Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-ffe666?style=for-the-badge&logo=react&logoColor=000)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Drizzle](https://img.shields.io/badge/Drizzle-000000?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
 <div align="center">
  
 ## 🛠️ Tools & Platforms
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
 <img alt="Vim" src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=black" />
 
 </div>
 
