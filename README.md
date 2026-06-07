@@ -53,6 +53,5 @@ Outside of coding, I enjoy **training in the gym, gaming, and watching anime**.
  
 ## 📬 Contact Me
 [![Email](https://img.shields.io/badge/Email-ffae00?style=for-the-badge&logo=gmail&logoColor=000)](mailto:baranec.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=fff)](https://baranecpeter.vercel.app)
 
 </div>
