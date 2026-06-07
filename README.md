@@ -13,7 +13,7 @@ I like working with technology in different forms — from building things to un
 
 I enjoy environments where I can learn new tools, solve practical problems, and improve how things work day to day.
 
-Outside of coding, I enjoy **training in the gym, gaming, and watching anime**.
+Outside of IT, I enjoy **training in the gym, gaming, and watching anime**.
 
 </td>
 <td width="45%" align="center">
