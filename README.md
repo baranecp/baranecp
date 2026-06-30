@@ -7,13 +7,13 @@
 
 ## 👋 About Me
 
-Hi! I’m **Peter**, someone with experience in IT-related roles and a background in frontend development..
+Hi! I’m Peter, someone with experience in IT-related roles and a strong background in technical troubleshooting and systems. 
 
-I like working with technology in different forms — from building things to understanding how **systems** run behind the scenes. I’m also comfortable working with **data**, especially when it comes to keeping things organized and accurate.
+I like working with technology in different forms — from analyzing how things work to understanding how automated systems run behind the scenes. I’m also very comfortable working with data, logs, and keeping processes organized and accurate.
 
-I enjoy environments where I can learn new tools, solve practical problems, and improve how things work day to day.
+I enjoy environments where I can learn new tools, solve practical engineering problems, and improve how things work day-to-day.
 
-Outside of IT, I enjoy **training in the gym, gaming, and watching anime**.
+Outside of tech, I enjoy training in the gym, gaming, and watching anime.
 
 </td>
 <td width="45%" align="center">
