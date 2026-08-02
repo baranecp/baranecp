@@ -5,6 +5,8 @@
 <tr>
 <td width="55%" valign="top">
 
+### Notice: This account holds legacy frontend projects. I've moved my primary focus to DevOps, Backend Infrastructure, and Automation!
+
 ## 👋 About Me
 
 Hi! I’m Peter, someone with experience in IT-related roles and a strong background in technical troubleshooting and systems. 
