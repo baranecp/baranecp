@@ -5,7 +5,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### Notice: This account holds legacy frontend projects. Transitioned to building data automation scripts, and process integration using Python, Linux, and Docker.
+### Notice: This account holds legacy frontend projects. My current focus has transitioned to building data automation scripts, process integration, and backend tools using Python, Linux, and Docker. (New backend repositories coming soon!)
 
 ## 👋 About Me
 
