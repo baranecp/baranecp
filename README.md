@@ -5,7 +5,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### Notice: This account holds legacy frontend projects. I've moved my primary focus to DevOps, Backend Infrastructure, and Automation!
+### Notice: This account holds legacy frontend projects. Transitioned to building data automation scripts, and process integration using Python, Linux, and Docker.
 
 ## 👋 About Me
 
