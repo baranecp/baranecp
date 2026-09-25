@@ -5,8 +5,6 @@
 <tr>
 <td width="55%" valign="top">
 
-### Notice: This account holds legacy frontend projects. My current focus has transitioned to building data automation scripts, process integration, and backend tools using Python, Linux, and Docker. (New backend repositories coming soon!)
-
 ## 👋 About Me
 
 Hi! I’m Peter, someone with experience in IT-related roles and a strong background in technical troubleshooting and systems. 
